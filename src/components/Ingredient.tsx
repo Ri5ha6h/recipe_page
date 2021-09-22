@@ -8,7 +8,7 @@ const Ingredient: FC<ListProps> = ({ item }) => {
   return (
     <li className='mt-3'>
       <input
-        className='cursor-pointer'
+        className='w-5 h-5 cursor-pointer'
         type='checkbox'
       />{' '}
       {item}

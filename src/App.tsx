@@ -25,6 +25,7 @@ const App = () => {
           <a
             className='border-b-2 '
             href='https://devchallenges.io/portfolio/Ri5ha6h'
+            target='_blank'
           >
             Rishabh Malik
           </a>{' '}
